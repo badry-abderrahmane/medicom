@@ -17,5 +17,13 @@
         "laravel-mix": "^1.0",
         "lodash": "^4.17.4",
         "vue": "^2.5.7"
+    },
+    "dependencies": {
+        "bulma": "^0.6.1",
+        "bulma-pageloader": "0.0.2",
+        "vue-events": "^3.1.0",
+        "vue-flatpickr-component": "^4.0.0",
+        "vue-router": "^3.0.1",
+        "vue-select": "github:sagalbot/vue-select"
     }
 }
